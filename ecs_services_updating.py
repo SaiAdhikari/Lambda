@@ -68,3 +68,4 @@ def lambda_handler(event, context):
         'statusCode': 200,
         'body': 'All services updated successfully!'
     }
+

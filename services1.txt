@@ -1,0 +1,17 @@
+catalogupdate-staging-1-0-0
+mpsetup-staging-1-0-0
+warrantycodes-staging-1-0-0
+favouritelinks-staging-1-0-0
+mcleditor-staging-1-0-0
+aap-validatetoken-staging
+userinfo-staging-1-0-0
+minicat-staging-1-0-0
+slaterms-staging-1-0-0
+cognito-sync-qa-1-0-0
+mclmaint-staging-1-0-0
+ddsupdate-staging-1-0-0
+pricerules-staging-1-0-0
+communities-staging-1-0-0
+attributes-staging-1-0-0
+userinfo-staging-op-1-0-0
+paymentgateway-staging-op-1-0-0
